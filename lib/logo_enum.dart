@@ -54,7 +54,7 @@ extension LogoTypeExtension on LogoType {
       case LogoType.mmoney:
         return 'M MoneyX';
       case LogoType.vtb:
-        return 'VietinBank LAOiPay';
+        return 'VietinBank';
       case LogoType.ib:
         return 'IB Cool';
       default:
