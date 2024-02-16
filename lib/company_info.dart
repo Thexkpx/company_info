@@ -1,9 +1,10 @@
+// ignore_for_file: camel_case_types
+
 library company_info;
 
 import 'package:flutter/material.dart';
 import 'logo_enum.dart';
 
-// ignore: camel_case_types
 class companyInfo extends StatelessWidget {
   final LogoType logoType;
   final double width;
