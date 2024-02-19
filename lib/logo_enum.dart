@@ -65,41 +65,41 @@ extension LogoTypeExtension on LogoType {
   String get asset {
     switch (this) {
       case LogoType.mixay:
-        return 'assets/logo/express/mixay-logo.png';
+        return 'packages/company_info/assets/logo/express/mixay-logo.png';
       case LogoType.ans:
-        return 'assets/logo/express/ans-logo.webp';
+        return 'packages/company_info/assets/logo/express/ans-logo.webp';
       case LogoType.hal:
-        return 'assets/logo/express/hal-logo.png';
+        return 'packages/company_info/assets/logo/express/hal-logo.png';
       case LogoType.bcel:
-        return 'assets/logo/bank/bcel.png';
+        return 'packages/company_info/assets/logo/bank/bcel.png';
       case LogoType.jdb:
-        return 'assets/logo/bank/jdb.png';
+        return 'packages/company_info/assets/logo/bank/jdb.png';
       case LogoType.ldb:
-        return 'assets/logo/bank/ldb.png';
+        return 'packages/company_info/assets/logo/bank/ldb.png';
       case LogoType.maruhan:
-        return 'assets/logo/bank/maruhan.png';
+        return 'packages/company_info/assets/logo/bank/maruhan.png';
       case LogoType.mepom:
-        return 'assets/logo/bank/mepom.webp';
+        return 'packages/company_info/assets/logo/bank/mepom.webp';
       case LogoType.acle:
-        return 'assets/logo/bank/acle.jpeg';
+        return 'packages/company_info/assets/logo/bank/acle.jpeg';
       case LogoType.icbbc:
-        return 'assets/logo/bank/icbc.jpg';
+        return 'packages/company_info/assets/logo/bank/icbc.jpg';
       case LogoType.ib:
-        return 'assets/logo/bank/ib.jpg';
+        return 'packages/company_info/assets/logo/bank/ib.jpg';
       case LogoType.mmoney:
-        return 'assets/logo/bank/mmoney.png';
+        return 'packages/company_info/assets/logo/bank/mmoney.png';
       case LogoType.kbank:
-        return 'assets/logo/bank/kbank-lao.png';
+        return 'packages/company_info/assets/logo/bank/kbank-lao.png';
       case LogoType.lvd:
-        return 'assets/logo/bank/lvb.jpeg';
+        return 'packages/company_info/assets/logo/bank/lvb.jpeg';
       case LogoType.hiapp:
-        return 'assets/logo/bank/hiapp.png';
+        return 'packages/company_info/assets/logo/bank/hiapp.png';
       case LogoType.vtb:
-        return 'assets/logo/bank/vtb.webp';
+        return 'packages/company_info/assets/logo/bank/vtb.webp';
       case LogoType.bic:
-        return 'assets/logo/bank/bic.jpg';
+        return 'packages/company_info/assets/logo/bank/bic.jpg';
       default:
-        return 'assets/logo/bank/bcel.webp';
+        return 'packages/company_info/assets/logo/bank/bcel.webp';
     }
   }
 }

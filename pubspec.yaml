@@ -1,6 +1,6 @@
 name: company_info
-description: A new Flutter package project.
-version: 0.0.1
+description: A Flutter package providing a collection of widgets to display bank and express company logos with customizable sizes and with their names.
+version: 0.0.4
 homepage: https://github.com/Thexkpx/company_info
 
 environment:
